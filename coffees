@@ -1,0 +1,25 @@
+{
+  "coffees": [
+    { "id": "1",
+      "name": "Латте",
+      "price": 15,
+      "description": "Латте дохуя",
+      "photo": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%82%D0%B5#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Latte-ru.svg"
+
+  },
+    {
+      "id": "2",
+      "name": "Капучино",
+      "price": 11,
+      "description": "Капучино дохуя",
+      "photo": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%82%D0%B5#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Latte-ru.svg"
+    },
+    {
+      "id": "3",
+      "name": "Фильтр",
+      "price": 2,
+      "description": "Фильтр дохуя тут большое описание",
+      "photo": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%82%D0%B5#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Latte-ru.svg"
+    }
+  ]
+}
